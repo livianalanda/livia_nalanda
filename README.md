@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.png" width="100%" alt="Lívia Nalanda - Data Analytics Portfolio"/>
+<img src="hero.png" width="100%" alt="Lívia Nalanda - Data Analytics Portfolio"/>
 
 # ✨ Lívia Nalanda
 ### Data Analytics Portfolio
