@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero.png.png" width="100%" alt="Lívia Nalanda - Data Analytics Portfolio"/>
+<img src="lyra.png" width="100%" alt="Lívia Nalanda - Data Analytics Portfolio"/>
 
 # ✨ Lívia Nalanda
 ### Data Analytics Portfolio
@@ -36,7 +36,7 @@ Gosto de transformar dados brutos em dashboards, relatórios e insights que apoi
 ## 🤖 Conheça a Lyra
 
 <div align="center">
-<img src="lyra.png" width="360"/>
+<img src="hero.png.png" width="360"/>
 </div>
 
 **Lyra** é a identidade visual do meu portfólio. Ela representa:
