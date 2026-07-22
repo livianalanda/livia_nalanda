@@ -1,45 +1,65 @@
-# Olá! 👋
+<div align="center">
 
-Sou **Lívia Nalanda**.
+# Lívia Nalanda
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+### Data Analytics Portfolio
 
-📊 Construindo minha carreira em Data Analytics por meio de estudos e projetos práticos.
+*Turning data into strategic insights.*
 
----
-
-## Atualmente estudando
-
-- SQL
-- Python
-- Excel
-- Power BI
-- Google Data Analytics Professional Certificate
+</div>
 
 ---
 
-## Ferramentas
+# Sobre
 
-- Git
-- GitHub
-- VS Code
-- MySQL
-- Figma
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Data Analytics.
+
+Atualmente desenvolvo projetos utilizando SQL, Python, Excel e Power BI enquanto construo um portfólio voltado para resolver problemas reais através da análise de dados.
 
 ---
 
-## Objetivo
+# Tecnologias
 
-Transformar dados em informações estratégicas para apoiar a tomada de decisões e desenvolver soluções baseadas em dados.
+| Ferramenta | Status |
+|------------|--------|
+| SQL | 🟦 |
+| Python | 🟨 |
+| Excel | 🟩 |
+| Power BI | 🟨 |
+| Git | ⬛ |
+| GitHub | ⬛ |
+| Figma | 🟪 |
 
 ---
 
-## Em desenvolvimento
+# Atualmente
 
-📈 Projetos de Análise de Dados
+- 📊 Construindo projetos de Data Analytics
+- 📈 Desenvolvendo dashboards
+- 🐍 Aprimorando Python
+- 🗄️ Estudando SQL
+- ☁️ Criando meu portfólio profissional
 
-📊 Dashboards
+---
 
-🐍 Estudos em Python
+# Objetivo
 
-📚 Portfólio profissional
+Transformar dados em informações estratégicas para apoiar a tomada de decisões e gerar valor através da tecnologia.
+
+---
+
+# Projetos
+
+Em breve...
+
+🚀 Meu portfólio está em construção.
+
+---
+
+<div align="center">
+
+### Vamos nos conectar
+
+LinkedIn • Portfólio • GitHub
+
+</div>
