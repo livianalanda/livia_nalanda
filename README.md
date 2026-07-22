@@ -19,7 +19,7 @@
 
 ## 👋 Sobre mim
 
-Sou **Lívia Nalanda**, estudante de Sistemas de Informação com foco em me tornar **Analista de Dados**.
+Sou **Lívia Nalanda**, estudante de Engenharia de Software com foco em me tornar **Analista de Dados**.
 
 Gosto de transformar dados brutos em dashboards, relatórios e insights que apoiam a tomada de decisão. Atualmente estou aprofundando meus estudos em:
 
