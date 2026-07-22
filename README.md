@@ -36,7 +36,7 @@ Gosto de transformar dados brutos em dashboards, relatórios e insights que apoi
 ## 🤖 Conheça a Lyra
 
 <div align="center">
-<img src="assets/lyra.png" width="360"/>
+<img src="lyra.png" width="360"/>
 </div>
 
 **Lyra** é a identidade visual do meu portfólio. Ela representa:
