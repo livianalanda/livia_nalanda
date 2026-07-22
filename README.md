@@ -1,65 +1,85 @@
-<div align="center">
+<p align="center">
+  <img src="images/hero.png" width="100%">
+</p>
 
-# Lívia Nalanda
+<h1 align="center">
+Lívia Nalanda
+</h1>
 
-### Data Analytics Portfolio
-
-*Turning data into strategic insights.*
-
-</div>
-
----
-
-# Sobre
-
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Data Analytics.
-
-Atualmente desenvolvo projetos utilizando SQL, Python, Excel e Power BI enquanto construo um portfólio voltado para resolver problemas reais através da análise de dados.
+<p align="center">
+Data Analytics Portfolio
+</p>
 
 ---
 
-# Tecnologias
+## About Me
 
-| Ferramenta | Status |
-|------------|--------|
-| SQL | 🟦 |
-| Python | 🟨 |
-| Excel | 🟩 |
-| Power BI | 🟨 |
-| Git | ⬛ |
-| GitHub | ⬛ |
-| Figma | 🟪 |
+I'm currently building my career in Data Analytics through practical projects focused on solving real business problems.
+
+My goal is to transform raw data into strategic insights using SQL, Python, Excel and Power BI.
 
 ---
 
-# Atualmente
+## Tech Stack
 
-- 📊 Construindo projetos de Data Analytics
-- 📈 Desenvolvendo dashboards
-- 🐍 Aprimorando Python
-- 🗄️ Estudando SQL
-- ☁️ Criando meu portfólio profissional
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
 
-# Objetivo
+</p>
 
-Transformar dados em informações estratégicas para apoiar a tomada de decisões e gerar valor através da tecnologia.
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 
-# Projetos
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 
-Em breve...
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
-🚀 Meu portfólio está em construção.
+</p>
 
 ---
 
-<div align="center">
+## Current Focus
 
-### Vamos nos conectar
+- SQL
+- Python
+- Power BI
+- Excel
+- Data Visualization
+- Business Intelligence
 
-LinkedIn • Portfólio • GitHub
+---
 
-</div>
+## Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| Customer Churn | Coming Soon |
+| Sales Dashboard | Coming Soon |
+| E-commerce Analytics | Coming Soon |
+| HR Analytics | Coming Soon |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+github stats
+
+github streak
+
+top languages
+
+</p>
+
+---
+
+## Contact
+
+LinkedIn
+
+Email
+
+Portfolio
